@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZ3CVEqkSqq6wYzBejyWwxg9BnBzYpGFUO162xrMnbfwbatWPPtiRZCWIheA58GhilUIvRhjC3G3iOwmqQCL7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MISHS025\\Documents\\Application Code\\Mail Relay ics attachment\\EmailTrigger\\EmailTrigger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MISHS025\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\7.0.0\\microsoft.codeanalysis.netanalyzers.7.0.0.nupkg.sha512",
+    "C:\\Users\\MISHS025\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\MISHS025\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\MISHS025\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\MISHS025\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MISHS025\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

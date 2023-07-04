@@ -1,0 +1,120 @@
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\.Net Framework\DOA_bckup\Final_email_trigger\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\shared folder\Shruti\EmailTrigger\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\shared folder\Shruti\EmailTrigger_with_attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\shared folder\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\shared folder\Ansy\EmailTrigger_with_attachment_test\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Documents\Application Code\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Documents\Application Code\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe.config
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\EmailTrigger.pdb
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csprojAssemblyReference.cache
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CoreCompileInputs.cache
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfoInputs.cache
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.AssemblyInfo.cs
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.csproj.CopyComplete
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.exe
+C:\Users\MISHS025\Downloads\Mail Relay ics attachment\EmailTrigger\obj\Debug\net48\EmailTrigger.pdb
